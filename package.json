@@ -1,0 +1,28 @@
+{
+  "name": "restaurant-management-system-cmd-based",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "build": "tsc",
+  "start": "node dist/index.js",
+  "dev": "tsc --watch"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diya-kul/Restaurant-Management-System-CMD-Based.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Diya-kul/Restaurant-Management-System-CMD-Based/issues"
+  },
+  "homepage": "https://github.com/Diya-kul/Restaurant-Management-System-CMD-Based#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+  
+}
