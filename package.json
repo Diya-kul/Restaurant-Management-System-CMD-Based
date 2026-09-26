@@ -15,7 +15,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "CommonJS",
   "bugs": {
     "url": "https://github.com/Diya-kul/Restaurant-Management-System-CMD-Based/issues"
   },
